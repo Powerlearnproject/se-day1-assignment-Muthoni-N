@@ -157,5 +157,5 @@ Vague Prompt:
 Improved Prompt:
 "Can you review the code I wrote for the login feature and check for any security issues?"
 
-Why It’s More Effective:
+Why It is More Effective:
 The improved prompt is specific about what help is needed ("review the code"), what part of the project ("login feature"), and the focus area ("security issues"). This clarity allows the person helping to understand exactly what is required, making it easier for them to provide relevant and targeted assistance, saving time and reducing misunderstandings.
